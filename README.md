@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @martinopagano
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning socket programming
+- 🌱 I’m currently learning socket API programming
 - 💞️ I’m looking to collaborate on new project
 - 📫 How to reach me? send me an e-mail to m.pagano@studenti.uniba.it
 
